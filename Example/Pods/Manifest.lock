@@ -1,0 +1,14 @@
+PODS:
+  - NonGitTest (0.1.0)
+
+DEPENDENCIES:
+  - NonGitTest (from `../`)
+
+EXTERNAL SOURCES:
+  NonGitTest:
+    :path: ../
+
+SPEC CHECKSUMS:
+  NonGitTest: e9d4498d819cbf262f4b7001c331fda19017e4ae
+
+COCOAPODS: 0.39.0

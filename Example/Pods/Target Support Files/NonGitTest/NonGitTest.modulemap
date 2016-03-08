@@ -1,0 +1,6 @@
+framework module NonGitTest {
+  umbrella header "NonGitTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
